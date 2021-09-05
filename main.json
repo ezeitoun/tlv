@@ -4,5 +4,5 @@
   "description": "TLV Israel Cardano Community Pool",
   "homepage": "https://www.adatlv.com",
   "nonce": "1630373980",
-  "extended": "https://raw.githubusercontent.com/ezeitoun/ada/main/ext.json"
+  "extended": "https://raw.githubusercontent.com/ezeitoun/tlv/main/ext.json"
 }
