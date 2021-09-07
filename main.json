@@ -1,7 +1,7 @@
 {
-  "name": "TLV",
+  "name": "TLV Stake Pool",
   "ticker": "TLV",
-  "description": "TLV Israel Cardano Community Pool",
+  "description": "The Official Stake Pool for Israel's Cardano Community",
   "homepage": "https://www.adatlv.com",
   "nonce": "1630373980",
   "extended": "https://raw.githubusercontent.com/ezeitoun/tlv/main/ext.json"
